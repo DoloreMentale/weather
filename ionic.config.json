@@ -1,0 +1,8 @@
+{
+  "name": "Weather",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "b4f607cb"
+}
